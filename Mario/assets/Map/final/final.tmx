@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.4" orientation="orthogonal" renderorder="right-down" width="26" height="15" tilewidth="16" tileheight="16" infinite="0" backgroundcolor="#000000" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="final" tilewidth="16" tileheight="16" tilecount="390" columns="26">
+  <image source="final.png" width="416" height="240"/>
+ </tileset>
+ <tileset firstgid="391" name="mario_tileset1" tilewidth="16" tileheight="16" tilecount="1204" columns="43">
+  <image source="../../effects_UI_tiles/tileset.png" width="688" height="450"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="26" height="15">
+  <data encoding="base64" compression="zlib">
+   eJy90zdQFFEYB/A7oCCDwAGdDkgSFbU0J8ytijl35pxtJZjzUJmtjKMW5sYZU2euzHZG7Ew/hmM4bu7Oghm/md98b9/uvv+8N7uBQPxKJY10Msgki2xyyKUbeeRTQIhCiiimMTkQaEpOEKJKKKUnZZRTQSVV9KKa3vShLzX0oz8DuCLjapycgQxiMEMYyjCGM4KRjGI0tYxhLOMYzwQmMonXMt4k2M9kpjCVOqYxnRnMZBazmcNc5jGfBSxkEc0pHWLVUpaxnBWsZBWrWcNa1rGeDWxkE5vZwla2UZDSIVZtp54GGmliBzvZxW72sJd97OcABznEYY6Ec/LIpz7Y2VH3j3GcE5zkFKc5E+eMz3KO81zgIpeictqrIdjWr3GdG9zkFre5Eyejve5xnwc85FGcnMtyHutPeMoznvOCl//IaK23vOM9H/iYIOeT/pkvfOUb32nhR4KMn/ziN39aJ6wVDMbPSSWNdDLIJItscsgNn21LktyktnHIXCFFFAc7f8uxcl55poRSllijTC+ngkqqWGy+Wu/uv+tBrfdrgp33FvktR+bcjdLcRZFrt45DYdH5XRG5dnTW/7r+C/3KchY=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "PlayerDamage",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "77d1bb8b-48b9-41ec-8278-a2699fd9ff41"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "47f9f267-9876-47c6-ae3e-7fe53055d88d"
+            }
+          },
+          {
+            "frame": 0.8,
+            "value": {
+              "__uuid__": "77d1bb8b-48b9-41ec-8278-a2699fd9ff41"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

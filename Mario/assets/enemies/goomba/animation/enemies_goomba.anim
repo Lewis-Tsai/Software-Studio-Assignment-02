@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enemies_goomba",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b5c86532-eb3b-4348-b90e-0345c6f8e994"
+            }
+          },
+          {
+            "frame": 0.11666666666666667,
+            "value": {
+              "__uuid__": "39bb44d0-c2ab-40a2-afa7-053b739db0d0"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "4c23db6c-1c22-46e4-a675-284f123048d2"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "77b77def-cd09-408b-88de-49e71e2c2a7b"
+            }
+          },
+          {
+            "frame": 0.55,
+            "value": {
+              "__uuid__": "a9a1b274-ba53-4d5a-a1a2-1bfcadfb15bb"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

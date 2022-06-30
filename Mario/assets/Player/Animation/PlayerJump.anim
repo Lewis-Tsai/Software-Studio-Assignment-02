@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "PlayerJump",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 7,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "5f1080a9-f11c-45e2-86b0-dd801683b3f3"
+            }
+          },
+          {
+            "frame": 0.14285714285714285,
+            "value": {
+              "__uuid__": "1a0bf5b0-1a63-4c08-92c7-b0c19c2064de"
+            }
+          },
+          {
+            "frame": 0.2857142857142857,
+            "value": {
+              "__uuid__": "4b3075ad-a753-4a50-9850-3b45181364cc"
+            }
+          },
+          {
+            "frame": 0.42857142857142855,
+            "value": {
+              "__uuid__": "4fc0b2f6-35e7-44df-a0d1-fcad12bf1da0"
+            }
+          },
+          {
+            "frame": 0.5714285714285714,
+            "value": {
+              "__uuid__": "efccb010-183d-4024-aa21-e59344e55a82"
+            }
+          },
+          {
+            "frame": 0.7142857142857143,
+            "value": {
+              "__uuid__": "b6bedc05-336d-4340-b527-f31a48eaa598"
+            }
+          },
+          {
+            "frame": 0.8571428571428571,
+            "value": {
+              "__uuid__": "1a0bf5b0-1a63-4c08-92c7-b0c19c2064de"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

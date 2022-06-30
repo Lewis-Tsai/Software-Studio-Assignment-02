@@ -1,0 +1,88 @@
+{
+  "collision-matrix": [
+    [
+      true,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      true,
+      true,
+      false,
+      null,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "design-resolution-height": 640,
+  "design-resolution-width": 1280,
+  "excluded-modules": [
+    "Geom Utils",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle",
+    "SafeArea"
+  ],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": true,
+  "fit-width": true,
+  "group-list": [
+    "default",
+    "Player",
+    "Floor",
+    "Item",
+    "Enemy",
+    "UI"
+  ],
+  "last-module-event-record-time": 1653146623318,
+  "simulator-orientation": true,
+  "simulator-resolution": {
+    "height": 720,
+    "width": 1280
+  },
+  "use-customize-simulator": false,
+  "use-project-simulator-setting": true,
+  "start-scene": "07f90a7a-968b-4bc9-b5ec-ecd7e636f5cb",
+  "assets-sort-type": "name",
+  "migrate-history": [
+    "cloud-function"
+  ]
+}

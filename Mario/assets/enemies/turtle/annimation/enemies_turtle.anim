@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enemies_turtle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.43333333333333335,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9e131ee5-d54d-4024-8f02-af17c8101ac8"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "fd497d88-e0ab-4e1b-a365-883c2f3c8dbe"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "229e04b3-bd9b-44d7-b0af-c7b045bedb83"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "5318a892-cbc5-48c4-bbf9-0e1d08fd455a"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "bbac4214-05aa-4791-8a6a-743520cd9577"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "45333909-6d56-4228-a1a8-6ed5e9b0455c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
