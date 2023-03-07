@@ -60,8 +60,7 @@ This is an online mario game made from scratch.
   * Stage 2
 ![](https://i.imgur.com/7z6W1mL.png)
 
-* Player
-![](https://i.imgur.com/6qe4Dvu.png)
+* <img src="https://i.imgur.com/6qe4Dvu.png"  width="35" height="35"> Player
   * Player have correct physics properties.
   * User can control the player to move and jump by keyboard.
   * When player touches enemies or be attacked by enemies, it will get hurt or the number of its life will decrease.
